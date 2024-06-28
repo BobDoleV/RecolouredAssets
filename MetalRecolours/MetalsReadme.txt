@@ -2,6 +2,8 @@ These are metal recolours of bracers, gauntlets, and greaves.
 
 You will find some images label as steel or iron, anything labelled as steel is intended as an alternative to "Iron" items from Dark Ages.  The intent of this is for you use what was "Mythril" in Dark Ages as Iron and the original games "Iron" as Steel. This is just a suggestion and by any means do what you want in your server.
 
+There is a palette file called "MetalRecolours.pal" in the folder with this readme
+
 <Folder Contents>
 
 GauntletsRewokred
